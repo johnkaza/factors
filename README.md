@@ -12,8 +12,7 @@ npm run dev
 For production build
 npm run build
 
-Already uploaded the build files. Serve the files with:
-> cd project_folder
+After running the production build. Serve the files with:
 > npm install --global serve
 > serve -S dist
 ```
